@@ -10,6 +10,6 @@ spring:
       ddl-auto: update
 
 server:
-  port: 8001
+  port: 8011
   servlet:
     context-path: /file-service
