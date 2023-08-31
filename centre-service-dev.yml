@@ -10,6 +10,6 @@ spring:
       ddl-auto: create-drop
 
 server:
-  port: 8051
+  port: 8031
   servlet:
     context-path: /centre-service
